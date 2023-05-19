@@ -1,1 +1,1 @@
-# quant-stuff
+# math-stuff
